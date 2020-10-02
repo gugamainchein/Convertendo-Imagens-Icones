@@ -7,7 +7,7 @@ Este é um projeto de estudo destinado ao desenvolvimento de funções que captu
 ## Recomendações
 
 Crie um ambiente virtual Python para execução do projeto.
-    * python -m venv <nome_do_seu_ambiente_virtual>
+* python -m venv <nome_do_seu_ambiente_virtual>
 
 ## Contatos
 
